@@ -2,6 +2,8 @@
 
 A save file editor for **Silent Hill: Townfall** (Screen Burn / Konami / Annapurna Interactive, 2026) — edit progress, unlock endings, and manage save data on PC.
 
+![Silent Hill: Townfall Save Editor](assets/banner.png)
+
 ![platform](https://img.shields.io/badge/platform-Windows-blue)
 ![status](https://img.shields.io/badge/status-early%20access-orange)
 ![license](https://img.shields.io/badge/license-MIT-green)
